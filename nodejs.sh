@@ -20,7 +20,7 @@ sudo adduser nodejs
 echo "agregado el user de nodejs"
 
 
-node challenge-linux-bash/server.js
+##node challenge-linux-bash/server.js
 
 sudo touch /lib/systemd/system/devops@.service
 sudo cat > /lib/systemd/system/devops@.service <<EOF
